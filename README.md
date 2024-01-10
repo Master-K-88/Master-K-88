@@ -10,7 +10,6 @@
 - Backend Development
 ## 👯 Willing to collaborate on:
 - App development
-- 
 ## Technical Proficiency:
 
 ### Swift: 
@@ -23,7 +22,7 @@ I have a comprehensive understanding of cross-platform development using both Re
 My proficiency in both Node.js empowers me to create robust and scalable backends. I have developed RESTful APIs and microservices, utilizing the strengths of each language to optimize performance and facilitate rapid development.
 
 ### GraphQL: 
-I am well-versed in GraphQL for both front-end and backend development. Leveraging GraphQL's flexibility, I have efficiently designed APIs that cater to dynamic client requirements, resulting in reduced data transfer and improved application responsiveness.
+I am well-versed in GraphQL for both front-end and back-end development. Leveraging GraphQL's flexibility, I have efficiently designed APIs that cater to dynamic client requirements, resulting in reduced data transfer and improved application responsiveness.
 
 ## 🤔 Need assistance with:
 - Mastering Backend development
